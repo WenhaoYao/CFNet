@@ -1,2 +1,2 @@
-# CFNet
-The code release of CFNet
+# CFNet：Conditional Filter Learning with Dynamic Noise Estimation for Real Image Denoising
+The code will be released soon.
